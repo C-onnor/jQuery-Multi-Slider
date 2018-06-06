@@ -1,6 +1,8 @@
 # jQuery-Multi-Slider
 jQuery/CSS Multi Slider
 
+DEMO: https://codepen.io/247/pen/JbbMWW
+
 -CSS Classes that this slider relies on can be found at the top of the jQuery.
 
 -They can be changed easily by changing their variable's values.
